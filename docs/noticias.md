@@ -1,0 +1,2 @@
+- Novo lançamento: [Game X](link_para_o_game)
+- Atualização do [Game Y](li
